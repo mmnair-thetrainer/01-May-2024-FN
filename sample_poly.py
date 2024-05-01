@@ -1,4 +1,4 @@
-#Created by manu.nair
+#Created by pooja
 class Shapes:
     shape = ""
     def __int__(self):
